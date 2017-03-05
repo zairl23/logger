@@ -10,13 +10,13 @@ Logger is a log package that is simple and many log methods support for monitori
 
 ## Official Documentation
 
-Documentation for Logger can be found on the [Logger website]().
+Documentation for Logger can be found on the ....
 
 ## RoadMap
 
 1. Add DbLog for store the logs in DB.
 
-2. Add EmailNotify for notify the warning and error log by email.s
+2. Add EmailNotify for notify the warning and error log by emails.
 
 ## License
 
