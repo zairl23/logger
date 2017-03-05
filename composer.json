@@ -1,0 +1,29 @@
+{
+    "name": "ney/logger",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.3.10",
+      "swoole":"*"
+    },
+    "autoload": {
+      "psr-4": {
+        "Ney\\Logger\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Ney\\Logger\\Tests\\":"tests/"
+      }
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~5.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
